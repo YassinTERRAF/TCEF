@@ -34,8 +34,6 @@ To use this repository for feature extraction and model training, follow these s
 3. Adjust the parameters like `context_size` and `sequence_length` as per your requirement.
 4. Run the script to perform feature extraction or to train the models.
 
-## Contribution
-Contributions to this project are welcome. Please follow the standard fork-and-pull request workflow on GitHub to submit your changes for review.
 
 ## License
 
