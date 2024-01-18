@@ -32,7 +32,7 @@ Two Python scripts are provided for training models using both conventional and 
 - `lstm.py`: Used to train TCEF features and conventional features using an LSTM for sequence-level analysis.
 
 ## Generating Plots
-All generated plots presented in the paper can be created through the scripts available in the `tools` folder.
+All generated plots presented in the paper can be created through the scripts available in the `plots` folder.
 
 ## Usage
 To use this repository for feature extraction and model training, follow these steps:
