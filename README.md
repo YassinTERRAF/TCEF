@@ -1,6 +1,6 @@
 # Temporal Context Enhanced Features - TCEF 
 ## Robust Feature Extraction Using Temporal Context Averaging for Speaker Identification in Diverse Acoustic Environments
-## This is a official Tensorflow implementation of TCEF.
+## This is the official Tensorflow implementation of TCEF.
 
 ## Citation
 soon
