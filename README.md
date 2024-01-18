@@ -1,5 +1,8 @@
 # Temporal Context Enhanced Features - TCEF 
-
+Paper: Robust Feature Extraction Using
+Temporal Context Averaging for Speaker
+Identification in Diverse Acoustic
+Environments
 ## Overview
 TCEF is an innovative approach to enhance audio feature representation by incorporating temporal context. This repository contains the implementation of TCEF and its application on two datasets: GRID and Ravdess. It also includes tools for adding noise and reverberation to these datasets to create augmented versions.
 
