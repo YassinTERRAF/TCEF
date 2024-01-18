@@ -11,8 +11,8 @@ TCEF is an innovative approach to enhance audio feature representation by incorp
 The repository is organized into the following main directories:
 
 - **Datasets**: This folder contains samples of audios in different datasets used in TCEF.
-- To download RAVDESS-NR dataset: https://www.kaggle.com/datasets/yassinterraf/ravdess-nr
-- To download GRID-NR dataset: https://www.kaggle.com/datasets/yassinterraf/grid-nr
+- To download RAVDESS-NR dataset: https://zenodo.org/records/10528908
+- To download GRID-NR dataset: https://zenodo.org/records/10528941
   
 
 
