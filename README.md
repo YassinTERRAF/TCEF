@@ -47,4 +47,5 @@ To use this repository for feature extraction and model training, follow these s
 This project is released under the Apache 2.0 license.
 ## Contact
 Email: yassin.terraf@um6p.ma
+
 Linkedin: https://www.linkedin.com/in/yassin-terraf-206597151/
